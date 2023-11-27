@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Kosenkov Nikita Pavlovich
-=======
-Arthur
->>>>>>> f10fb55 (Initial List Commit)
